@@ -65,6 +65,8 @@ Tokio is an asynchronous runtime for the Rust programming language. It provides 
 
 ### Blogs
 
+- [fasterthanli.me](https://fasterthanli.me/tags/tokio)
+
 ### Socials
 
 - [Twitter: @tokio_rs](https://twitter.com/tokio_rs)
