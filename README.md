@@ -30,10 +30,16 @@ Tokio is an asynchronous runtime for the Rust programming language. It provides 
 
 ## Courses
 
+- [Rust: Asynchronous Programming with Tokio](https://www.linkedin.com/learning/rust-asynchronous-programming-with-tokio)
 
 ## Articles
 
+- [How to Use Tokio with Rust](https://altimetrikpoland.medium.com/how-to-use-tokio-with-rust-f42a56cbd720) Practical guide to asynchronous operations.
+
 ## Podcasts/Episodes
+
+- [Tokio Ecosystem with Alice Ryhl](https://rustacean-station.org/episode/046-alice-ryhl/)
+- [Rust Networking with Carl Lerche](https://softwareengineeringdaily.com/2018/06/19/rust-networking-with-carl-lerche/)
 
 ### Podcasts
 
@@ -42,13 +48,11 @@ Tokio is an asynchronous runtime for the Rust programming language. It provides 
 
 ## Educational Projects
 
-
 ## Other Resources
 
 ### YouTube Channels, Videos and Playlists
 
 #### Channels
-
 
 #### Playlists
 
@@ -59,8 +63,6 @@ Tokio is an asynchronous runtime for the Rust programming language. It provides 
 - [1 Hour Dive into Asynchronous Rust](https://www.youtube.com/watch?v=0HwrZp9CBD4)
 
 ### Blogs
-
-- [How to Use Tokio with Rust](https://altimetrikpoland.medium.com/how-to-use-tokio-with-rust-f42a56cbd720) Practical guide to asynchronous operations.
 
 ### Socials
 
