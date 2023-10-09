@@ -39,13 +39,12 @@ Tokio is an asynchronous runtime for the Rust programming language. It provides 
 
 ## Podcasts/Episodes
 
-- [Tokio Ecosystem with Alice Ryhl](https://rustacean-station.org/episode/046-alice-ryhl/)
-- [Rust Networking with Carl Lerche](https://softwareengineeringdaily.com/2018/06/19/rust-networking-with-carl-lerche/)
-
 ### Podcasts
 
 ### Episodes
 
+- [Tokio Ecosystem with Alice Ryhl](https://rustacean-station.org/episode/046-alice-ryhl/)
+- [Rust Networking with Carl Lerche](https://softwareengineeringdaily.com/2018/06/19/rust-networking-with-carl-lerche/)
 
 ## Educational Projects
 
