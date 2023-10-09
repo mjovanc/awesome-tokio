@@ -1,4 +1,4 @@
-# [![Ktor](https://avatars.githubusercontent.com/u/20248544?s=40&v=4)](https://github.com/tokio-rs/tokio) Awesome Tokio
+# [![Ktor](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tokio_logo.svg/40px-Tokio_logo.svg)](https://github.com/tokio-rs/tokio) Awesome Tokio
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
