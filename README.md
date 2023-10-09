@@ -61,6 +61,7 @@ Tokio is an asynchronous runtime for the Rust programming language. It provides 
 - [Getting started with Tokio](https://www.youtube.com/watch?v=dOzrO40jgbU&t=3s)
 - [Intro to async/.await in Rust](https://www.youtube.com/watch?v=K8LNPYNvT-U)
 - [1 Hour Dive into Asynchronous Rust](https://www.youtube.com/watch?v=0HwrZp9CBD4)
+- [Creating a Chat Server with async Rust and Tokio](https://www.youtube.com/watch?v=Iapc-qGTEBQ)
 
 ### Blogs
 
