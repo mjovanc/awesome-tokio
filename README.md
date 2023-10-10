@@ -56,6 +56,8 @@ Tokio is an asynchronous runtime for the Rust programming language. It provides 
 
 #### Playlists
 
+- [Rust - Tokio AsyncIO Agents](https://www.youtube.com/playlist?list=PLtbwxVtHxPeIYJtu1g53FgLPGN9WYgG2l)
+
 #### Videos
 
 - [Getting started with Tokio](https://www.youtube.com/watch?v=dOzrO40jgbU&t=3s)
