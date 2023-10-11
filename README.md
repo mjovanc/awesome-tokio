@@ -80,6 +80,7 @@ Tokio is an asynchronous runtime for the Rust programming language. It provides 
 
 - [fred.rs](https://github.com/azuqua/fred.rs/tree/master) A Redis client for Rust based on Futures and Tokio that supports PubSub commands, clustered Redis deployments, and more.
 - [H2](https://github.com/hyperium/h2) HTTP 2.0 client & server implementation for Rust.
+- [RMQTT Broker](https://github.com/rmqtt/rmqtt) MQTT Server/MQTT Broker - Scalable Distributed MQTT Message Broker for IoT in the 5G Era.
 
 ## Contributing
 
